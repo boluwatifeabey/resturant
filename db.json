@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@test",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Accusantium nisi ame",
+      "email": "Distinctio Assumend",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "name": "Voluptatem blanditii",
+      "email": "Quaerat magna dolore",
+      "password": "Pa$$w0rd!",
+      "id": 3
+    },
+    {
+      "name": "Voluptatem blanditii",
+      "email": "Quaerat magna dolore",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "name": "Incididunt aut aut n",
+      "email": "Dolore dolorem Nam p",
+      "password": "Pa$$w0rd!",
+      "id": 5
+    },
+    {
+      "name": "Adipisicing libero f",
+      "email": "Voluptas eiusmod exp",
+      "password": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "name": "Quasi facere magnam ",
+      "email": "Vel nulla ut praesen",
+      "password": "Pa$$w0rd!",
+      "id": 7
+    }
+  ],
+  "restsurant": [
+    {
+      "id": 1,
+      "name": "Abiodun king",
+      "contact": "09016256731",
+      "location": "Modi sed nulla sit v",
+      "address": "fvgbhnjmk,l;"
+    },
+    {
+      "id": 2,
+      "name": "precious king",
+      "contact": "0916256731",
+      "location": "Modi sed nulla sit v",
+      "address": "no ideas"
+    },
+    {
+      "id": 3,
+      "name": "Adekoya king",
+      "contact": "9016256731",
+      "address": "no ideas",
+      "location": "Modi sed nulla sit v"
+    },
+    {
+      "name": "Kiona Mckee",
+      "address": "Laboriosam anim et ",
+      "location": "Modi sed nulla sit v",
+      "contact": "Labore amet maxime ",
+      "id": 4
+    }
+  ]
+}
