@@ -41,6 +41,18 @@
       "email": "Vel nulla ut praesen",
       "password": "Pa$$w0rd!",
       "id": 7
+    },
+    {
+      "name": "Adekoya Precious",
+      "email": "oluwakemiprecious27@gmail.com",
+      "password": "1234567",
+      "id": 8
+    },
+    {
+      "name": "wertyuio",
+      "email": "Quaerat magna dolore",
+      "password": "Pa$$w0rd!",
+      "id": 9
     }
   ],
   "restsurant": [
@@ -53,10 +65,10 @@
     },
     {
       "id": 2,
-      "name": "precious king",
+      "name": "oluwakemi",
       "contact": "0916256731",
       "location": "Modi sed nulla sit v",
-      "address": "no ideas"
+      "address": "us"
     },
     {
       "id": 3,
@@ -71,6 +83,12 @@
       "location": "Modi sed nulla sit v",
       "contact": "Labore amet maxime ",
       "id": 4
+    },
+    {
+      "name": "adekoya Precious",
+      "address": "oluwakemiprecious27@gmail.com",
+      "contact": "111111",
+      "id": 5
     }
   ]
 }
